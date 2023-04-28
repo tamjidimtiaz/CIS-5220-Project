@@ -5,4 +5,10 @@ Here, we implement U-net and Attention based U-net to segment three datasets ava
 
 How to run the files:
 
-There are three 
+For PHH3 cell segmentation, there are two notebook files PHH3_cell_baseline_REAL(2) and PHH3_transfer_learning_REAL(2). The first notebook serves the implementation of the baseline U net model and the second one serves the implementation of the transfer learnt pretrained U-net model. 
+
+For DAPI cell segmentation task, please run the notebook file named: 'model_train_and_test_DAPI_cells.ipynb'. 
+
+
+For DAPI tissue segmentation task, please run the notebook file named: 'model_train_and_test_DAPI_tissue.ipynb'. 
+
